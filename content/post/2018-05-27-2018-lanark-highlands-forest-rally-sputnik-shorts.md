@@ -5,7 +5,7 @@ share: true
 date: 2018-05-27 18:31:47 +0000
 url: "/2018-lanark-highlands-forest-rally-sputnik-shorts/"
 slug: "/2018-lanark-highlands-forest-rally-sputnik-shorts/"
-image: "./www.rallysputnik.com/wp-content/uploads/IMG_1974-1000x288.jpg"
+image: "./wp-content/uploads/IMG_1974-1000x288.jpg"
 featured_image: http://www.rallysputnik.com/wp-content/uploads/IMG_1974-1000x288.jpg
 aliases:
 - "/2018-lanark-highlands-forest-rally-sputnik-shorts/"
