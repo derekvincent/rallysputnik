@@ -1,0 +1,50 @@
+---
+title: Lanark Highlands Forest Rally – Prep underway
+author: bryce
+type: post
+date: 2015-04-14T20:01:16+00:00
+url: /lanark-highlands-forest-rally-prep-underway/
+categories:
+  - Updates
+
+---
+We started getting ready for the first rally of our season, which being the lazy / broke creatures we are is Lanark Highlands Forest Rally (LHFR). We like this rally &#8211; good road, not too far away, and Perth is a nice town to visit.
+
+Given it was the coldest February in history &#8217;round these parts we decided to put off our visits to the unheated shop until March. Which wasn&#8217;t all that warm either, plus we had a backlog of daily driver car repairs to address before we could start on the Manchurian. However, we did eventually get to that and have been up the past few weekends. So far we&#8217;ve found:
+
+  * In general the car is looking good! No serious damage from the Pines stages we did complete at speed (ish) so that&#8217;s good, and a few marks just to show we were there.
+
+<a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2791/" rel="attachment wp-att-1348"><img class="alignnone size-large wp-image-1348" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2791-1024x768.jpg" alt="IMG_2791" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2791-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_2791-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_2791-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_2791-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2792/" rel="attachment wp-att-1349"><img class="alignnone size-large wp-image-1349" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2792-1024x768.jpg" alt="IMG_2792" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2792-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_2792-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_2792-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_2792-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2790/" rel="attachment wp-att-1355"><img class="alignnone size-large wp-image-1355" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2790-e1428950040690-768x1024.jpg" alt="IMG_2790" width="584" height="779" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2790-e1428950040690-768x1024.jpg 768w, https://www.rallysputnik.com/wp-content/uploads/IMG_2790-e1428950040690-225x300.jpg 225w, https://www.rallysputnik.com/wp-content/uploads/IMG_2790-e1428950040690-900x1200.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2793/" rel="attachment wp-att-1350"><img class="alignnone size-large wp-image-1350" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2793-1024x768.jpg" alt="IMG_2793" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2793-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_2793-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_2793-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_2793-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+  * Our rear camber did change a bit, but we think tightening the drivers side ball joint up will help there. Or it will come loose again. Either way we know where to look.</p> 
+  * The road tune we applied stuck, so that&#8217;s good. All the lights work, the intercom works better after a few whacks with the electrical hammer, and we bought a sender unit from a part-out on the DSM forums so we&#8217;ll know how much gas we have. That will be nice. Hell, better than Princess right now, which also needs some fuel sensors as she seems to think she has a 45L tank. Has for about a year, in fact. It&#8217;s more important in the rally car though!</p> 
+  * The actual fuel issues were resolved by properly blocking off the second side of the dual fuel pump sending unit, but we&#8217;ll try it out some more just to be sure. And we did purchase a second fuel pump, but given time constraints haven&#8217;t figured out how to install it with a check valve etc. We have the wires to power it at least! So that is on the &#8216;post-Lanark, pre Galway&#8217; list.
+
+  * We don&#8217;t really have a fix for most of the leaking that is related to the engine bay. We did top up the transmission but where it&#8217;s leaking isn&#8217;t really fixable without pulling the transmission&#8230;which if we&#8217;re doing anyhow we are getting rebuilt, so we&#8217;ll hold off on that. We also need to tweak the shifter cables alignment but since one of the bolts holding them to the transmission was finger tight we may have found at least part of the problem
+
+  * We had a real extravaganza with the oil cooler line. The spot in the head it goes to has some thread issues so it &#8216;weeps&#8217; &#8211; our word for it &#8211; under throttle. We have a relocation kit to run it to the oil filter cooler but getting the bolt out that leads to filtered oil went from hard to impossible. Some pictures of that horrible thing are attached. Right now we&#8217;re planning to run with it as-is and it is also on the &#8216;post-Lanark, pre Galway&#8217; list.
+
+Seriously though &#8211; check this thing out. As you can tell, our extraction methods were a bit heavy-handed near the end&#8230;
+
+<a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2820/" rel="attachment wp-att-1354"><img class="alignnone size-large wp-image-1354" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2820-1024x768.jpg" alt="IMG_2820" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2820-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_2820-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_2820-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_2820-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+View from the front, between all the &#8216;stuff&#8217;. Don&#8217;t let the picture fool you; there&#8217;s no straight line into that spot.
+
+<a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2817-2/" rel="attachment wp-att-1356"><img class="alignnone size-large wp-image-1356" src="http://www.rallysputnik.com/wp-content/uploads/IMG_28171-1024x768.jpg" alt="IMG_2817" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_28171-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_28171-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_28171-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_28171-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+We need to get the new fitting into this blocked off hole but can&#8217;t get to it from the front due to the rad/subframe being in the way. We tried heating it, penetrating oil, etc but no dice. The hole above it has the idiot light sensor which has a different thread to what we need, and the ones below it aren&#8217;t filtered. We could add a filter there also, but then we&#8217;ve got a whole lot of stuff hanging down plus extra complexity. Yes, something to noodle on&#8230;
+
+<a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2816/" rel="attachment wp-att-1351"><img class="alignnone size-large wp-image-1351" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2816-1024x768.jpg" alt="IMG_2816" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2816-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_2816-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_2816-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_2816-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+And above, yeah, it&#8217;s a bit of a mess now. Take that, Mitsubishi engineers who are probably long since retired!
+
+Finally, we put some oil back in it. Only the good stuff, garcon! Thanks as always to [HSL Rallysport][1] for the liquids and [RTM][2] for the hardware.
+
+<a href="http://www.rallysputnik.com/lanark-highlands-forest-rally-prep-underway/img_2821/" rel="attachment wp-att-1358"><img class="alignnone size-large wp-image-1358" src="http://www.rallysputnik.com/wp-content/uploads/IMG_2821-1024x768.jpg" alt="IMG_2821" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_2821-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_2821-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_2821-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_2821-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+We&#8217;ll tackle a few more &#8216;nice to have&#8217; items on the list this weekend &#8211; lube window mechanisms, secure the door skins and center pot better, re-attach the fuel filter, try to find that engine mount nut, make some camera mounts, and then see where we&#8217;re at once we get insurance on it and drive it more than 30 feet. That should happen this week so we can get it ready for <a title="Cars and Coffee – Wicked and Weird" href="http://www.rallysputnik.com/cars-n-coffee/" target="_blank">Cars and Coffee</a> April 26, which in turn is prep for LHFR May 02.
+
+Hope to see you there.
+
+ [1]: http://www.hslrallysport.ca
+ [2]: http://www.rtmracing.com

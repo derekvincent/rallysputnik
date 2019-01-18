@@ -1,0 +1,68 @@
+---
+title: Tall Pines – The Prequel
+author: bryce
+type: post
+date: 2015-11-04T13:04:37+00:00
+url: /tall-pines-the-prequel/
+categories:
+  - Updates
+
+---
+Holy cow, how long has it been?
+
+<!--more-->
+
+We&#8217;ve been, you know, busy with stuff, but we haven&#8217;t forgotten about the car. No ma&#8217;am, don&#8217;t you worry about that. However, we did do a <del>decent </del><del>half decent</del> ok job at putting it together, and the Galway Rally Sprint was pretty gentle on the car &#8211; as long as you stayed on the road, which we mostly did &#8211; so apart from fixing our electrical issue we really only had to prep it. Nice!
+
+So prep we did. We replaced the main power cable to the alternator with a proper 4ga wire so that will hopefully fix the issue where the alternator isn&#8217;t providing power and we are running off the battery. Finger points to the end of the crappy old cable.
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4232/" rel="attachment wp-att-1502"><img class="alignnone size-large wp-image-1502" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4232-1024x768.jpg" alt="IMG_4232" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4232-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4232-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4232-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4232-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+We don&#8217;t actually know how long we were running off the battery, but it must have been a while. Honestly, we should be sponsored by Canadian Tire Batteries at this point, because we used the Jeep &#8211; with a Canadian Tire battery &#8211; to charge the Talon Canadian Tire battery enough that we could finish the Sprint. This are a quality product, people! Since this is our budget someone remind me to email those guys&#8230;
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_1551-2/" rel="attachment wp-att-1498"><img class="alignnone size-large wp-image-1498" src="http://www.rallysputnik.com/wp-content/uploads/IMG_15511-1024x768.jpg" alt="IMG_1551" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_15511-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_15511-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_15511-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_15511-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+Anyhow, you&#8217;ll recall that for Pines 2014 &#8211; the inaugural outing of the mighty Manchurian &#8211; we had a fuel pump issue in which it failed, we replaced it with a spare that someone happened to have, and then the bung that blocked off where the second pump should be tore so the new pump couldn&#8217;t get the fuel out of the tank and we stopped moving at the furthest point possible from our service crew. Who were pleased as punch to hook up the trailer plus grab the WRX, and come out in the dark and get us. [Go here for a refresher][1]. In picture form.
+
+So for 2015 we have an all new service crew! (No lie, we really do. The other guys were busy, they say). We also have TWO fuel pumps, which means 1) that if one fails we have a second 2) there is no bung to fail. That plus the electrical fix &#8211; and honestly that wire actually failed twice, but the first time we &#8216;fixed&#8217; it &#8211; means we feel like we are prepared. So we definitely aren&#8217;t prepared, but we don&#8217;t know why not. We should leave a symbolic problem that we know about so the universe doesn&#8217;t feel obliged to smite us, I guess. The ancient ones were wise.
+
+<a href="http://www.rallysputnik.com/lets-get-ready-to-rallysprint/img_3632/" rel="attachment wp-att-1464"><img class="alignnone size-large wp-image-1464" src="http://www.rallysputnik.com/wp-content/uploads/IMG_3632-1024x768.jpg" alt="IMG_3632" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_3632-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_3632-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_3632-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_3632-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/lets-get-ready-to-rallysprint/img_0749-jpg/" rel="attachment wp-att-1459"><img class="alignnone size-large wp-image-1459" src="http://www.rallysputnik.com/wp-content/uploads/IMG_0749.JPG-1024x1024.jpeg" alt="IMG_0749.JPG" width="584" height="584" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_0749.JPG-1024x1024.jpeg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_0749.JPG-150x150.jpeg 150w, https://www.rallysputnik.com/wp-content/uploads/IMG_0749.JPG-300x300.jpeg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_0749.JPG-144x144.jpeg 144w, https://www.rallysputnik.com/wp-content/uploads/IMG_0749.JPG-900x900.jpeg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+What we DID do to prep was &#8211; after the alternator fix &#8211; put the car on the hoist and change the oil and filter, check the underside for issues, top up all the other fluids (which surprisingly were mostly full &#8211; it seems we&#8217;ve rectified most of our leaking save the transmission), clean and lube the brakes, clean the dust out of everything, and make lots of &#8216;vroom&#8217; noises.What, you think cleaning the dust wasn&#8217;t manly man work?
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4663/" rel="attachment wp-att-1510"><img class="alignnone size-large wp-image-1510" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4663-1024x768.jpg" alt="IMG_4663" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4663-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4663-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4663-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4663-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+That&#8217;s from one rear wheel AFTER being moved around a bunch already. Oh, most importantly we buffed the worst of the tire marks off the side from the chicanes at the Rally Sprint. They actually did buff right out.
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_3939-2/" rel="attachment wp-att-1499"><img class="alignnone size-large wp-image-1499" src="http://www.rallysputnik.com/wp-content/uploads/IMG_39391-1024x768.jpg" alt="IMG_3939" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_39391-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_39391-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_39391-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_39391-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+(That&#8217;s before. It looks better now)
+
+When we mentioned sponsors, we really DO have some, and one is Paul at [HSL Rallysport][2]. Last year we got our lights and EBC brake pads and rotors from him which work great, as you&#8217;d expect, and at a good price too. So go see him if you want good stuff at a good price.
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/imgp4198-2/" rel="attachment wp-att-1511"><img class="alignnone size-large wp-image-1511" src="http://www.rallysputnik.com/wp-content/uploads/IMGP41981-1024x768.jpg" alt="IMGP4198" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMGP41981-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMGP41981-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMGP41981-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMGP41981-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+(We should also note that if you have a DSM or Mitsubishi and you do NOT know who Ziggy is, you are some kind of crazy person and you should go to [RTM Racing][3] and buy stuff immediately. They&#8217;re great people and amazingly helpful).
+
+This year Paul at HSL came through with another years worth of Amsoil for us so we&#8217;re all set for 2016, at least as far as fluids go. We think. Good thing as we went through our last oil filter, gear oil, and transmission oil from last year, and we have just enough oil to bring to Pines as &#8216;consumables&#8217;. Also note CostCo sized container of shop towels and gloves&#8230;
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4887/" rel="attachment wp-att-1513"><img class="alignnone size-large wp-image-1513" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4887-1024x768.jpg" alt="IMG_4887" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4887-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4887-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4887-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4887-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+The other thing we have &#8211; just in case &#8211; is a four-bolt LSD rear end, courtesy the good folks on the DSM forums. Y&#8217;all are great people even if you can&#8217;t start a fire without methanol. Anyhow, we have that but haven&#8217;t installed it; the plan is to do it when we have either free time (what&#8217;s that?), the shop isn&#8217;t freezing, or ideally both. So in other words, NOT before Pines and (hopefully) NOT because we need to.
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4572/" rel="attachment wp-att-1504"><img class="alignnone size-large wp-image-1504" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4572-1024x768.jpg" alt="IMG_4572" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4572-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4572-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4572-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4572-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+There will be more updates before Pines, probably, but if not and you can make it you REALLY should come check it out. Stop by and say hi to us and our experienced and probably not drunk new service crew. We might even have the espresso machine hooked up. Details are at [www.TallPinesRally.com][4] and it takes place Nov 28. But now, pictures!
+
+<a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4662/" rel="attachment wp-att-1509"><img class="alignnone size-large wp-image-1509" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4662-1024x768.jpg" alt="IMG_4662" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4662-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4662-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4662-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4662-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4661/" rel="attachment wp-att-1508"><img class="alignnone size-large wp-image-1508" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4661-1024x768.jpg" alt="IMG_4661" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4661-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4661-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4661-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4661-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4578/" rel="attachment wp-att-1507"><img class="alignnone size-large wp-image-1507" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4578-1024x768.jpg" alt="IMG_4578" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4578-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4578-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4578-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4578-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/tall-pines-the-prequel/img_4577/" rel="attachment wp-att-1506"><img class="alignnone size-large wp-image-1506" src="http://www.rallysputnik.com/wp-content/uploads/IMG_4577-1024x768.jpg" alt="IMG_4577" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_4577-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_4577-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_4577-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMG_4577-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+Here&#8217;s some video hype from 2014. We&#8217;re hyped.
+
+<span class="embed-youtube" style="text-align:center; display: block;"></span>
+
+Hope to see you there!
+
+ [1]: http://www.rallysputnik.com/tall-pines-2014-photos/
+ [2]: http://www.hslrallysport.ca/HSL_Website2/Home.html
+ [3]: https://www.rtmracing.com/xcart/
+ [4]: http://www.tallpinesrally.com/

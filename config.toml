@@ -1,0 +1,47 @@
+BaseUrl= "http://rallysputnik.com/"
+LanguageCode= "en-EN"
+#Title= "RallySputnik"
+paginate = 10
+DisqusShortname = "rallysputnik"
+Copyright = "All rights reserved - 2019"
+canonifyurls = true
+theme = "casper"
+
+[params]
+  #description = "Welcome to my website"
+  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  cover = "images/header/WL__6666-1000x288.jpg"
+  author = "RallySputnik"
+  authorlocation = ""
+  authorwebsite = ""
+  authorbio= ""
+  #logo = "images/logo.png"
+  customCSS = ["css/custom.css"]
+  #googleAnalyticsUserID = "UA-79101-12xxx"
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  #RSSLink = "http://feeds.feedburner.com/..."
+  #githubName = "vjeantet"
+  # twitterName = "vjeantet"
+  # facebookName = ""
+  # codepenName = ""
+  # linkedinName = ""
+  # stackoverflowId = ""
+  # keybaseName = ""
+  # flickrName = ""
+  # instagramName = ""
+  # email = ""
+  # pinterestName = ""
+  # googlePlusName = ""
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = true
+  
+  # Setting a value will load highlight.js and enable syntax highlighting using the style selected.
+  # See https://github.com/isagalaev/highlight.js/tree/master/src/styles for available styles
+  # A preview of above styles can be viewed at https://highlightjs.org/static/demo/
+  hjsStyle = "default"
+
+  [params.social]
+    twitter = "your_twitter"
+
+  [permalinks]
+    posts = "/:slug/"

@@ -1,0 +1,53 @@
+---
+title: The story of Rally Sputnik Pt 3A – The Manchurian Candidate
+author: bryce
+type: post
+date: 2015-03-11T22:30:36+00:00
+url: /the-story-of-rally-sputnik-pt-3a-the-manchurian-candidate/
+categories:
+  - Updates
+
+---
+Rally Sputnik Pt 3A – The Manchurian Candidate Pt 1
+  
+AKA Descent into Madness
+
+After <a title="In Soviet Russia, Trailer Pulls You!" href="http://www.rallysputnik.com/in-soviet-russia-trailer-pulls-you/" target="_blank">deciding to sell</a> a relatively reliable, extremely tough but under-powered one wheel drive car (well, two, but with an open differential) the next logical question for our heroes was: what to replace it with?
+
+<a href="http://www.rallysputnik.com/the-story-of-rally-sputnik-pt-3a-the-manchurian-candidate/black-bear-2007-016/" rel="attachment wp-att-1305"><img class="alignnone size-large wp-image-1305" src="http://www.rallysputnik.com/wp-content/uploads/Black-Bear-2007-016-1024x768.jpg" alt="Black Bear 2007 016" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/Black-Bear-2007-016-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/Black-Bear-2007-016-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Black-Bear-2007-016-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/Black-Bear-2007-016-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+<!--more-->
+
+We had some clear criteria.
+  
+1. Cheap and available
+  
+2. Cheap and available replacement parts (when you drive a 20 year old Lada in Canada you dream of this)
+  
+3. Cheap and available performance parts
+  
+4. Community/tuning support (who ideally had built one of these into a rally car before)
+  
+5. Likely to be somewhat cheap and reliable once it was done(i.e. cheap to run)
+  
+6. Did we mention cheap?
+  
+We actually cared less about AWD than our eventual choice might suggest, and you can see a list of everything we were considering here.
+
+<a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/car-comparison/" rel="attachment wp-att-1226"><img class="alignnone size-large wp-image-1226" src="http://www.rallysputnik.com/wp-content/uploads/Car-comparison-1024x580.jpg" alt="Car comparison" width="584" height="330" srcset="https://www.rallysputnik.com/wp-content/uploads/Car-comparison-1024x580.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/Car-comparison-300x170.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Car-comparison-500x283.jpg 500w, https://www.rallysputnik.com/wp-content/uploads/Car-comparison-900x510.jpg 900w, https://www.rallysputnik.com/wp-content/uploads/Car-comparison.jpg 1299w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+What we REALLY wanted to do was to buy a built rally car, but at the time there wasn’t anything that really spoke to us. We went back and forth a lot on this but by the end of 2012 we weren’t really getting anywhere. However, we still had The Lada, so no worries. Then we sold the Lada. So that kind of drove home the need to buy something else so we could race again. Plus now we had a small bit of actual folding money!
+
+Plan A materialized in the fall of 2012 when our intrepid crew chief Drew found a buddy selling a <a title="And introducing the next candidate." href="http://www.rallysputnik.com/and-introducing-the-next-candidate/" target="_blank">1995 Eagle Talon</a> TSi AWD for $500. We looked at it, we drove it up the street and it was mostly there plus it had spares so we put it on the trailer and towed it home. After putting an exhaust on it, fixing a few things and <a title="Ye gods, some activity!" href="http://www.rallysputnik.com/ye-gods-some-activity/" target="_blank">pulling the cat pee and cigarette interior out</a> we got it <a title="Split yer wig pt 2 – barely legal" href="http://www.rallysputnik.com/split-yer-wig-pt-2-barely-legal/" target="_blank">plated</a> and were actually driving it when we realized there was <a title="Split yer wig pt 2(a) – Suspension engineering from beyond the moon" href="http://www.rallysputnik.com/split-yer-wig-pt-2a-suspension-engineering-from-beyond-the-moon/" target="_blank">no way we were going to be able to construct a rally suspension for it</a>. Some people had rallied them, it is true, but we followed up with them and their solutions involved breaking numerous times and then grafting in an EVO 3 (only sold in Japan) sub-frame and suspension. We also ran this by Ryan at Rally/Race Development and he couldn’t see any way that was likely to be successful so we somewhat reluctantly decided to dump it. We put it on Kijijiji, which as everyone knows is full of lunatics, and our eventual buyer was no exception. If his plans worked out it is now a green and black show car covered in carbon fiber and with a green and black leather interior, to replace his carbon fiber (?!) show Jeep. However, we actually made a few dollars on the whole thing, so that was good! What was bad was we still had no car to start building and it was now spring 2013.
+
+Worth noting here that in the winter of 2012 the Rally Van decided to cough up a lung and stop moving; this was probably the result of running out of gas coming back from Black Bear, where the trip computer said it had 100 kms of range and we could see the gas station and…no. Unload the rally car, drive to the gas station, buy gas, come back… Anyhow, the fuel pump died and in an Astro Van it’s an in tank pump you access from the top. The straps were rusted so we couldn’t drop it, so when it had to be moved from the public parking lot so they could use it for the annual demolition derby – remember, the owner of this thing has like 7 vehicles and no driveway – we cut a hole in the floor above the gas tank with a cordless drill and replaced the pump. We continued to drive it with a home made fuel pump cover and a No Smoking sign, but when it died again shortly after that it went for scrap. Fortunately intrepid crew chief Drew purchased a brand new F-150, so we chipped in on a tow package and we were now in the lap of luxury! Still borrowing a trailer from a guy we know in town, too &#8211; thanks Grant!
+
+At Easter 2013 one of us was passing through the Ottawa area and saw an ad on Kijijiji for a lovely 91 Talon TSI AWD owned by some drifter kids in the Perth area. (That&#8217;s their 240SX in the picture(s).
+
+<a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/imgp4078/" rel="attachment wp-att-1228"><img class="alignnone size-large wp-image-1228" src="http://www.rallysputnik.com/wp-content/uploads/IMGP4078-1024x768.jpg" alt="IMGP4078" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/IMGP4078-1024x768.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMGP4078-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMGP4078-400x300.jpg 400w, https://www.rallysputnik.com/wp-content/uploads/IMGP4078-900x675.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/ad_pic_1/" rel="attachment wp-att-1229"><img class="alignnone size-large wp-image-1229" src="http://www.rallysputnik.com/wp-content/uploads/Ad_Pic_1.jpg" alt="Ad_Pic_1" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_1.jpg 800w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_1-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_1-400x300.jpg 400w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/ad_pic_2/" rel="attachment wp-att-1230"><img class="alignnone size-large wp-image-1230" src="http://www.rallysputnik.com/wp-content/uploads/Ad_Pic_2.jpg" alt="Ad_Pic_2" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_2.jpg 800w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_2-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_2-400x300.jpg 400w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/ad_pic_3/" rel="attachment wp-att-1231"><img class="alignnone size-large wp-image-1231" src="http://www.rallysputnik.com/wp-content/uploads/Ad_Pic_3.jpg" alt="Ad_Pic_3" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_3.jpg 720w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_3-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_3-400x300.jpg 400w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/ad_pic_4/" rel="attachment wp-att-1232"><img class="alignnone size-large wp-image-1232" src="http://www.rallysputnik.com/wp-content/uploads/Ad_Pic_4.jpg" alt="Ad_Pic_4" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_4.jpg 800w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_4-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_4-400x300.jpg 400w" sizes="(max-width: 584px) 100vw, 584px" /></a> <a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/ad_pic_5/" rel="attachment wp-att-1233"><img class="alignnone size-large wp-image-1233" src="http://www.rallysputnik.com/wp-content/uploads/Ad_Pic_5.jpg" alt="Ad_Pic_5" width="584" height="438" srcset="https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_5.jpg 800w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_5-300x225.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/Ad_Pic_5-400x300.jpg 400w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+Although it did look like it had suffered an engine fire and it didn’t run, it came with a plausible explanation as to why it didn&#8217;t run, it came with spares, and the owners had a vague association to rallying. A quick perusal showed some rust but no noticeable holes in the body or floor. So, we drove up with the trailer to Ottawa, parted with $700, and dragged it home on the trailer.
+
+<a href="http://www.rallysputnik.com/the-story-of-rally-sputnik/img_3065-2/" rel="attachment wp-att-1234"><img class="alignnone size-large wp-image-1234" src="http://www.rallysputnik.com/wp-content/uploads/IMG_30651-1024x764.jpg" alt="IMG_3065" width="584" height="435" srcset="https://www.rallysputnik.com/wp-content/uploads/IMG_30651-1024x764.jpg 1024w, https://www.rallysputnik.com/wp-content/uploads/IMG_30651-300x224.jpg 300w, https://www.rallysputnik.com/wp-content/uploads/IMG_30651-401x300.jpg 401w, https://www.rallysputnik.com/wp-content/uploads/IMG_30651-900x672.jpg 900w" sizes="(max-width: 584px) 100vw, 584px" /></a>
+
+And it then we started to take it apart&#8230;
