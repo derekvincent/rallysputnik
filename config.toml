@@ -17,7 +17,7 @@ theme = "casper"
   authorbio= ""
   #logo = "images/logo.png"
   customCSS = ["css/custom.css"]
-  #googleAnalyticsUserID = "UA-79101-12xxx"
+  googleAnalyticsUserID = "UA-27888469-1"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   #githubName = "vjeantet"
