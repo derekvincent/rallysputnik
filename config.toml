@@ -1,4 +1,4 @@
-BaseUrl= "http://rallysputnik.com/"
+BaseUrl= "https://www.rallysputnik.com/"
 LanguageCode= "en-EN"
 #Title= "RallySputnik"
 paginate = 10
