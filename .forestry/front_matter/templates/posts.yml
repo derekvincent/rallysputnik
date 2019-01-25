@@ -46,3 +46,6 @@ fields:
   hidden: false
   default: ''
   description: Path to the image for the post header
+- type: file
+  name: images
+  label: images
