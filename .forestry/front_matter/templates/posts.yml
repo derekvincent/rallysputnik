@@ -1,28 +1,30 @@
 ---
 label: Posts
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+  config:
+    required: true
 - name: author
   label: Author
   type: text
   hidden: false
   default: ''
+  description: bryce or derek
+  config:
+    required: true
 - name: date
   label: Date
   type: datetime
   hidden: false
   default: ''
-- name: url
-  label: Url
-  type: text
-  hidden: false
-  default: ''
+  config:
+    required: true
 - name: categories
   label: Categories
   type: tag_list
@@ -43,13 +45,4 @@ fields:
   type: text
   hidden: false
   default: ''
-- name: featured_image
-  label: Featured image
-  type: text
-  hidden: false
-  default: ''
-- name: aliases
-  label: Aliases
-  type: list
-  hidden: false
-  default: ''
+  description: Path to the image for the post header
