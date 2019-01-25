@@ -35,17 +35,17 @@ fields:
   type: boolean
   hidden: false
   default: ''
+- type: file
+  name: image
+  label: image
+  description: Post Header image
 - name: slug
   label: Slug
   type: text
   hidden: false
   default: ''
-- name: image
-  label: Image
-  type: text
-  hidden: false
-  default: ''
-  description: Path to the image for the post header
-- type: file
-  name: images
-  label: images
+  description: 'This is used to determine the URL if the title is not used. '
+- type: boolean
+  name: comments
+  label: Comments
+  description: Enable to allow comments on the post.
