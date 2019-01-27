@@ -9,7 +9,7 @@ theme = "casper"
 
 [params]
   #description = "Welcome to my website"
-  metadescription = "Used as 'description' meta tag for both home and index pages. If not set, 'description' will be used instead"
+  metadescription = "Rally Sputnik ...Zip ties and blissful ignorance"
   cover = "images/header/WL__6666-1000x288.jpg"
   author = "RallySputnik"
   authorlocation = ""
@@ -21,15 +21,15 @@ theme = "casper"
   # Optional RSS-Link, if not provided it defaults to the standard index.xml
   #RSSLink = "http://feeds.feedburner.com/..."
   #githubName = "vjeantet"
-  # twitterName = "vjeantet"
-  # facebookName = ""
+  # twitterName = "rallysputnik"
+  # facebookName = "Rally-Sputnik-1159692300786136"
   # codepenName = ""
   # linkedinName = ""
   # stackoverflowId = ""
   # keybaseName = ""
   # flickrName = ""
-  # instagramName = ""
-  # email = ""
+  # instagramName = "rally.sputnik"
+  # email = "comrades@rallysputnik.com"
   # pinterestName = ""
   # googlePlusName = ""
   # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
@@ -41,7 +41,7 @@ theme = "casper"
   hjsStyle = "default"
 
   [params.social]
-    twitter = "your_twitter"
+    twitter = "rallysputnik"
 
   [permalinks]
     posts = "/:slug/"
