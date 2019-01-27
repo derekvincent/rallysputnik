@@ -9,6 +9,7 @@ image: "./wp-content/uploads/IMG_1974-1000x288.jpg"
 featured_image: "./wp-content/uploads/IMG_1974-1000x288.jpg"
 aliases:
 - "/2018-lanark-highlands-forest-rally-sputnik-shorts/"
+- "/2018-lanark-highlands-forest-rally-sputnik-shorts/"
 categories:
 - Updates
 

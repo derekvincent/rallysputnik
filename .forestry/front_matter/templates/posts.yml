@@ -1,0 +1,53 @@
+---
+label: Posts
+hide_body: false
+is_partial: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: bryce
+  description: bryce or derek
+  config:
+    required: true
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default:
+  - Updates
+- name: share
+  label: Share
+  type: boolean
+  hidden: false
+  default: true
+- type: file
+  name: image
+  label: image
+  description: Post Header image
+- type: boolean
+  name: comments
+  label: Comments
+  description: Enable to allow comments on the post.
+  default: true
+- name: slug
+  label: Slug
+  type: text
+  hidden: false
+  default: ''
+  description: 'This is used to determine the URL if the title is not used. '
